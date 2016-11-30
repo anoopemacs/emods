@@ -1,8 +1,8 @@
-# script found from http://www.reddit.com/r/i3wm/comments/2dwq4m/issue_with_script_that_remaps_both_capslock_and/
- 
 #!/bin/sh
 # depends xmodmap xcape
 # https://github.com/alols/xcape
+
+# script found from http://www.reddit.com/r/i3wm/comments/2dwq4m/issue_with_script_that_remaps_both_capslock_and/
  
 # clear all mappings
 setxkbmap -option ''
